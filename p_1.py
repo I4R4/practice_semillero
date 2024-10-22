@@ -1,7 +1,7 @@
 holis = "texto"
 x = 1
 mi_variable = 12.2
-y=34.5
+y=34.4
 mi_variable=y+mi_variable
 
 print(holis)

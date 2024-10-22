@@ -6,3 +6,5 @@ mi_variable=y+mi_variable
 
 print(holis)
 print(mi_variable)
+holis="cambio"
+print (holis)

@@ -20,3 +20,16 @@ random.shuffle(lista)
 my_v=lista[-1]*pi
 
 print("esta es la lista: ",lista,"\neste es el valor de mi variable: ",my_v)
+
+#se hace prueba de usando funciones 
+
+def suma(a,b):
+    return a+b
+
+def resta(a,b):
+    if a>b:
+        return a-b
+    
+x=suma(4,5)
+y=resta(x,my_v)
+print("\n mi suma da:",x," y mi resta: ",y)

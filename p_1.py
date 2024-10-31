@@ -33,3 +33,14 @@ def resta(a,b):
 x=suma(4,5)
 y=resta(x,my_v)
 print("\n mi suma da:",x," y mi resta: ",y)
+
+#Practica de actividades nuevas 30 de octubre
+
+#creacion de lista
+lista1=[x,y,pi]
+
+print(lista1)
+
+n1=int(input("por fa, ingresa un primer numero: "))
+n2=int(input("un segundo numero: "))
+print("la suma de estos numeros es:",suma(n1,n2))
